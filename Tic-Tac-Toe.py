@@ -128,7 +128,7 @@ def jugar(tablero):
 
     jugar_otra_partida = input("¿Quieres jugar otra partida? (s/n): ")
     if jugar_otra_partida.lower() == 's':
-        nuevo_tablero = inicializar_tablero()  # Asegúrate de tener una función para reiniciar el tablero
+        nuevo_tablero = inicializar_tablero()  
         jugar(nuevo_tablero)
     else:
         print("¡Gracias por jugar!")
