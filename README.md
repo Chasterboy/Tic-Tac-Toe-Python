@@ -10,6 +10,8 @@ Esta versión incorpora inteligencia artificial mediante el algoritmo minimax.
 - Jugabilidad contra una IA.
 - Implementación del algoritmo minimax para la toma de decisiones de la IA.
 
+![Diseño3D](Imagenes/consola.png)
+
 ## Versión 2: Tic-Tac-Toe con Interfaz Gráfica
 
 Esta versión utiliza el mismo código que la primera, pero se ha añadido una interfaz gráfica y se ha optimizado con el algoritmo de poda alfa-beta para mejorar la eficiencia del juego.
