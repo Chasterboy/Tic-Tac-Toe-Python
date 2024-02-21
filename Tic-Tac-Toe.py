@@ -1,3 +1,5 @@
+#Autor Eduardo Rivera
+#Referecia: https://www.geeksforgeeks.org/finding-optimal-move-in-tic-tac-toe-using-minimax-algorithm-in-game-theory/ 
 oponente, jugador = 'o', 'x'
 
 def imprimir_tablero(tablero):
